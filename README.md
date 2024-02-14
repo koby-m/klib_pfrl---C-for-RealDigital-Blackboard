@@ -1,14 +1,20 @@
-Name:                   klib_pfrl (written in C)
+Name:                   
+                        klib_pfrl (written in C)
 
-Version:                1.0.0
+Version:                
+                        1.0.0
 
-Dependancies:           klib_io (written in C)
+Dependancies:           
+                        klib_io (written in C)
                         https://github.com/koby-m/klib_io---C-for-RealDigital-Blackboard
 
-Contributor(s):         Koby Miller
+Contributor(s):         
+                        Koby Miller
 
-Date last modified:     February 13th, 2024
+Date last modified:     
+                        February 13th, 2024
 
-Description:            To interface external peripherals with the RealDigital Blackboard via PMOD GPIO 
+Description:            
+                        To interface external peripherals with the RealDigital Blackboard via PMOD GPIO 
                         Including:
                                 - Digilent PMOD KYPD (16 button keypad)
